@@ -15,4 +15,4 @@ A simple Stopwatch Android application built using Kotlin and Jetpack Compose.
 - Android Studio
 
 ## Author
-Jyothi
+Jyothi kolli
